@@ -12,6 +12,9 @@
       <sprite>sprites\spr_border</sprite>
       <sprite>sprites\spr_health_backround</sprite>
       <sprite>sprites\spr_health_foreground</sprite>
+      <sprite>sprites\spr_health_background2</sprite>
+      <sprite>sprites\spr_health_foreground2</sprite>
+      <sprite>sprites\spr_border2</sprite>
     </sprites>
   </sprites>
   <backgrounds name="background"/>
@@ -20,6 +23,7 @@
     <object>objects\cont_main</object>
     <object>objects\obj_player1</object>
     <object>objects\obj_player2</object>
+    <object>objects\obj_health</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
